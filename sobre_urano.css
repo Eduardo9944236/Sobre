@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poetsen One", sans-serif;
+    background: url(./icomes/Fundo_site.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+
+.home img {
+    max-width: 40px;
+
+}
+
+
+.titulo h1{
+    max-width: 240px;
+    height: 100px;
+    color: white;
+}
+
+
+.info{
+    max-width: auto;
+    color: white;
+}
+
+.botao-sobre{
+    color: white;
+}
